@@ -7,7 +7,6 @@ categories: jekyll update
 For entertainment track, for being a Game Client Programmer. 
 
 
-`YEAR-MONTH-DAY-title.MARKUP`
 
 
 {% highlight ruby %}
