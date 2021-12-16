@@ -5,4 +5,6 @@ categories: jekyll update
 Learn Unity, Learn C#, Learn Game Desgin Pattern, Learn Algorithm
 
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Ok? Ok!
+bye :)
+
