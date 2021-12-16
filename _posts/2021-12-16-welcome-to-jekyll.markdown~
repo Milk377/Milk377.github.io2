@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Milk's Blog"
+title:  "Entertainment Post"
 date:   2021-12-16 21:52:38 +0900
 categories: jekyll update
 ---
-Hi ! 
-I'm Software Developer who is from Kookmin University.
-Welcome to my Blog.
+For entertainment track, for being a Game Client Programmer. Looking for job.
+
 
 
 `YEAR-MONTH-DAY-title.MARKUP`
