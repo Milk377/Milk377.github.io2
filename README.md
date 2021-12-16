@@ -7,5 +7,6 @@
 5. Make and Set github link
 6. Download jekyll them and apply
 7. edit from dummy data to my profile
-8. add github Post : Git & Github, Jekyll, Markdown 
+8. add github link, add LinkedIn link 
+( github.com/Milk377 , Linkedin - ted mosby ) 
 9. Done.
