@@ -1,6 +1,10 @@
-This is Header
-=============
+---
+learn mark down below :
+https://gist.github.com/ihoneymon/652be052a0727ad59601
 
-and this is BlockQuote
->use like this
+learn Jekyll :
+http://t-robotics.blogspot.com/2016/04/jekyll.html#.YbtJmWhBxjU
+
+thank you
+
 
