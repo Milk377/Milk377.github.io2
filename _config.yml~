@@ -26,8 +26,8 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: 
-    github:
+    twitter: milk377
+    github: github.com/Milk377
     linkedIn: 
     #dribbble: jekyll
     #flickr:   jekyll
