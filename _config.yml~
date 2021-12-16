@@ -26,9 +26,9 @@ plainwhite:
     - post
   # generate social links in footer
   social_links:
-    twitter: milk377
-    github: github.com/Milk377
-    linkedIn: 
+    twitter: 
+    github: Milk377
+    linkedIn: in/ted-mosby-26291b161/
     #dribbble: jekyll
     #flickr:   jekyll
     #instagram: jekyll
